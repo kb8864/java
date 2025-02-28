@@ -24,4 +24,4 @@ class Q5_10 {
       System.out.println(b.getMsg() + " : " + g.getMsg());
     }
   }
-  
+  　 
