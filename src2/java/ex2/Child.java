@@ -1,9 +1,9 @@
-package ex2;
-
-import ex1.Parent;
-
-public class Child extends Parent {
-    public static void main(String[] args) {
-        System.out.println(num);
-    }
-}
+//package ex2;
+//
+//import ex1.Parent;
+//
+//public class Child extends Parent {
+//    public static void main(String[] args) {
+//        System.out.println(num);
+//    }
+//}
