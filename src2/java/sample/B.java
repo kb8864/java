@@ -1,9 +1,9 @@
-public class B extends A{
-    public void hello(){
-        System.out.println("B");
+package java.sample;
 
-    }
-    public void bye(){
-        System.out.println("bye");
+public class B implements A{
+
+    @Override
+    public String toStrong(){
+        return "B";
     }
 }

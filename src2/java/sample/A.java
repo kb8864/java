@@ -1,6 +1,11 @@
-public  class A{
-    public void hello(){
-        System.out.println("A");
+package java.sample;
 
+public interface A {
+
+    @Override
+    default public String toStrong(){
+        return "A";
     }
+
+
 }
