@@ -5,6 +5,7 @@ public interface Process {
 
     static Process getInstance(){
         //return new SampleProcess();
-        return new CustomProcess();
+        //return new CustomProcess();
+        return new CustomProcess2();
     }
 }
